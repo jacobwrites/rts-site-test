@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://jacobwrites.github.io/rts-site-test/sitemap.xml
